@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
-## 基于Java+Springboot的外卖系统(源码+数据库)106
+## 基于Java+Springboot的外卖系统(源码+数据库+开发文档+论文)106
 
 ## 一、系统介绍
 本系统分为用户端和管理端角色
